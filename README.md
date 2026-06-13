@@ -8,7 +8,7 @@ A beginner-friendly intentionally vulnerable Linux virtual machine for cybersecu
 
 Download the VirtualBox VM here:
 
-https://drive.google.com/file/d/1FN28AIBkexKlSuDV2C-0eYsYonmDaI9V/view?usp=drive_link
+https://drive.google.com/file/d/1dlcrpLp-izurPTNzRs099VO6Qh3aPtV0/view?usp=drive_link
 
 ## Import Into VirtualBox
 
